@@ -33,4 +33,4 @@ All images are 96x96 pixels.
 - Final ranking includes evaluation on a private held-out set
 
 
-GDrive Link for the results - https://drive.google.com/drive/folders/16upxf123FxnRTv91rrtnVB20iIZJuAaf?usp=sharing
+GDrive Link for the results and .pth files - https://drive.google.com/drive/folders/16upxf123FxnRTv91rrtnVB20iIZJuAaf?usp=sharing
